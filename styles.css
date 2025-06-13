@@ -718,8 +718,8 @@ html {
 
 /* Footer */
 .footer {
-   background-color: var(--text-primary);
-   color: white;
+   background-color: var(--background-color);
+   color: var(--text-primary);
    text-align: center;
    padding: 2rem 0;
 }
